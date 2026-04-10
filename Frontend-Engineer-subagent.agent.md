@@ -1,4 +1,5 @@
 ---
+name: Frontend-Engineer-subagent
 description: 'Frontend/UI specialist for implementing user interfaces, styling, and responsive layouts'
 argument-hint: Implement frontend feature, component, or UI improvement
 tools: ['edit', 'search', 'execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalLastCommand', 'read/terminalSelection', 'execute/createAndRunTask', 'search/usages', 'read/problems', 'search/changes', 'execute/testFailure', 'web/fetch', 'web/githubRepo', 'todo']

@@ -1,4 +1,5 @@
 ---
+name: Atlas
 description: 'Orchestrates Planning, Implementation, and Review cycle for complex tasks'
 tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'browser', 'vscode/runCommand', 'vscode/askQuestions', 'agent/runSubagent', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo']
 agents: ["*"]

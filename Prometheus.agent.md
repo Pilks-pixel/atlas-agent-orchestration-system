@@ -1,4 +1,5 @@
 ---
+name: Prometheus
 description: 'Autonomous planner that writes comprehensive implementation plans and feeds them to Atlas'
 tools: ['edit', 'search', 'search/usages', 'read/problems', 'search/changes', 'execute/testFailure', 'web/fetch', 'web/githubRepo', 'agent']
 model: GPT-5.4 (copilot)

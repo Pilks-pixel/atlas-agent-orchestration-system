@@ -1,4 +1,5 @@
 ---
+name: Issue-Publisher-subagent
 description: 'Read and author GitHub issues only. Use for gh issue view/create/update workflows and issue dependency reconciliation.'
 argument-hint: Read or publish GitHub issues for PRD/slice workflows
 tools: ['execute/runInTerminal', 'execute/getTerminalOutput']
